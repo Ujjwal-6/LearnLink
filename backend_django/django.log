@@ -1,0 +1,10 @@
+Watching for file changes with StatReloader
+[28/Oct/2025 17:32:30] "GET /api/subjects HTTP/1.1" 200 64
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 28, 2025 - 17:31:45
+Django version 4.2.25, using settings 'learnlink_backend.settings'
+Starting development server at http://127.0.0.1:5001/
+Quit the server with CONTROL-C.
+

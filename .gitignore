@@ -1,0 +1,44 @@
+# Frontend - Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
+dist/
+build/
+
+# Backend - Python
+backend_django/venv/
+backend_django/__pycache__/
+backend_django/**/__pycache__/
+backend_django/**/*.pyc
+backend_django/**/*.pyo
+backend_django/**/*.egg-info/
+backend_django/.env
+backend_django/.env.local
+backend_django/db.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.DS_Store
+*.iml
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
+
+# Lock files (optional - uncomment if you want to track these)
+# package-lock.json
+# yarn.lock
